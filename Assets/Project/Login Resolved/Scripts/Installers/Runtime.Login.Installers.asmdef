@@ -1,0 +1,18 @@
+{
+    "name": "Runtime.Login.Installers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8dfbac834ec9fa942860c8e99f5731dc",
+        "GUID:492c0c25f0383744c98edbc1ddb84863",
+        "GUID:f1af5a00614d7dc458c3f678bfccad98"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Runtime.Login.Presenters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8dfbac834ec9fa942860c8e99f5731dc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

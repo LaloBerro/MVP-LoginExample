@@ -1,89 +1,5 @@
 {
   "dependencies": {
-    "com.marijnzwemmer.unity-toolbar-extender": {
-      "version": "https://github.com/marijnz/unity-toolbar-extender.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "dbd76ed996483d219c39d240f785b1790aa039ed"
-    },
-    "com.neuecc.unirx": {
-      "version": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "284d5c50d3f1ddd9fa7df3d382ea904732a9c2ff"
-    },
-    "com.tgl.backandforth": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Editor-BackAndForth.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "935104d0f0a0fd0f6ca2a5c41775d84e6e77e34a"
-    },
-    "com.tgl.commandqueue": {
-      "version": "https://github.com/TGL-Games/UnityPackage-CommandQueue.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "1e2528a522e9b2d39dd683e298de51218d616e8a"
-    },
-    "com.tgl.commands": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Command.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "d7984ecbf884612d7e6643763b371ca9d8723f25"
-    },
-    "com.tgl.customeditors": {
-      "version": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "030c236a2c743861356516f57351f3a55498923a"
-    },
-    "com.tgl.factorymethod": {
-      "version": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "526e02a2681f7a7c806036869a43a5f01dc9d2b0"
-    },
-    "com.tgl.installers": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Installers.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "2ae342171cd8d2cd7dd52a38c9954113b6f4374d"
-    },
-    "com.tgl.mvvmframework": {
-      "version": "https://github.com/LaloBerro/UnityPackage-MVVMFramework.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "e202311db26b415b077dbaf07bc2891920723716"
-    },
-    "com.tgl.sceneloader": {
-      "version": "https://github.com/TGL-Games/UnityPackage-SceneLoader.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "d40ce8e4a6a828f39623333b63a806b7ade66853"
-    },
-    "com.tgl.servicelocator": {
-      "version": "https://github.com/TGL-Games/UnityPackage-ServiceLocator.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "03391234b05af064f4f1a9aac087280398d0cb56"
-    },
-    "com.tgl.singleton": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Singleton.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "5a63d128826f4f5d44baa0db96ae706476837ba9"
-    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -145,15 +61,6 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.recorder": {
-      "version": "3.0.3",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.timeline": "1.0.0"
-      },
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
