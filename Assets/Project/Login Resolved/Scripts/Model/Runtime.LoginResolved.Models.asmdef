@@ -1,9 +1,7 @@
 {
-    "name": "Runtime.Login.Presenters",
+    "name": "Runtime.LoginResolved.Models",
     "rootNamespace": "",
-    "references": [
-        "GUID:8dfbac834ec9fa942860c8e99f5731dc"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
